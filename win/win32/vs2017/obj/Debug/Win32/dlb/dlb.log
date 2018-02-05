@@ -1,0 +1,6 @@
+﻿  panic.c
+  dlb_main.c
+  dlb.c
+  alloc.c
+  Generating Code...
+  dlb.vcxproj -> C:\Users\Jose\NetHack\win\win32\vs2017\..\..\..\tools\Debug\Win32\dlb.exe
