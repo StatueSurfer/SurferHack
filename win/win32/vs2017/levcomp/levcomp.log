@@ -1,0 +1,9 @@
+﻿  No Yacc using pre-built files
+  lev_yacc.c
+  lev_main.c
+  lev_lex.c
+  monst.c
+  drawing.c
+  decl.c
+  Generating Code...
+  levcomp.vcxproj -> C:\Users\Jose\NetHack\win\win32\vs2017\..\..\..\tools\Debug\Win32\levcomp.exe
