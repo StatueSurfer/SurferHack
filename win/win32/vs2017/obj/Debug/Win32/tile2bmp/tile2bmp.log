@@ -1,0 +1,8 @@
+﻿  tile2bmp.c
+  monst.c
+  drawing.c
+  decl.c
+  Generating Code...
+  tilemap.c
+  tile2bmp.vcxproj -> C:\Users\Jose\NetHack\win\win32\vs2017\..\..\..\tools\Debug\Win32\tile2bmp.exe
+  Total of 1476 tiles written to tiles.bmp.
